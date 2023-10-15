@@ -1,0 +1,32 @@
+Session-1 (Git basics)
+- [X] Git intro and what is VCS?
+- [X] Github vs Git
+- [X] Initialize a git project
+- [X] .gitignore file use
+- [X] Configuring variables
+  - [X] Add and set origin url
+  - [X] User name and email variables
+  - [X] Global vs local variables
+- [X] Untracked vs staged area
+- [X] How to create commit (conventional)
+- [X] Git reset (hard vs soft)
+- [X] Branches in git
+  - [X] Switch between branches through git checkout
+- [X] Clone a repository 
+  - [X] https vs ssh cloning
+- [X] Push code to remote
+- [X] Pull code from remote
+- [X] Create a pull request
+  
+Session-2 (Git advance)
+- [ ] Resolving merge conflict
+- [ ] What is git rebasing?
+- [ ] Git force push
+- [ ] Rollback a commit
+- [ ] Temporary commits
+  - [ ] Using git stash 
+- [ ] What is head in git structure?
+- [ ] What is git sha value?
+- [ ] When and how to use git cherry-pick?
+- [ ] Rewrite commit history
+- [ ] Etc. topics will be added...
