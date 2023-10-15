@@ -1,0 +1,19 @@
+{
+  "name": "git-demo",
+  "version": "1.0.0",
+  "description": "Demo git session and handson workshop for students",
+  "main": "sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajjwal-gavander/git-session-sgsits.git"
+  },
+  "author": "Prajjwal Gavander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajjwal-gavander/git-session-sgsits/issues"
+  },
+  "homepage": "https://github.com/prajjwal-gavander/git-session-sgsits#readme"
+}
